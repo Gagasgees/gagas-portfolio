@@ -60,5 +60,5 @@ Gagas
 Aspiring programmer passionate about web development and data analyst.
 
 ## 💌 Contact Me
-**Email :** akugagass@gmail.com
-**Github :** https://github.com/gagasgees/
+- **Email :** akugagass@gmail.com
+- **Github :** https://github.com/gagasgees/
