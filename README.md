@@ -41,13 +41,13 @@ This is my personal portfolio, my name is Gagas. I'm passionate about techology,
 ## 🚀 Installation
 To run this portfolio locally.
 
-1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 git clone https://github.com/Gagasgees/gagas-portfolio.git
 
-2️⃣ Navigate to the project directory
+### 2️⃣ Navigate to the project directory
 cd gagas-portfolio
 
-3️⃣ Open the project with your browser
+### 3️⃣ Open the project with your browser
 if you are using a local server (e.g. Live Server extension in VSCode). Start Live Server or simply open index.html in your browser
 
 ⚠ This portfolio is built using only HTML, CSS and JavaScript. So no additional installations or dependencies are required. 
